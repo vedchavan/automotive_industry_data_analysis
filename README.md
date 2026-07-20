@@ -91,7 +91,7 @@ The SQL project includes:
 5. Does weather (rain/snow/fog/temperature) affect daily sales volume?
 6. Which month/year had the highest number of recalls?
 
-Full query set: [`SQL/automotive_analysis.sql`](SQL/automotive_analysis.sql)
+Full query set: [`SQL/Automotive_industry_sql.sql`](SQL/Automotive_industry_sql.sql)
 
 ---
 
