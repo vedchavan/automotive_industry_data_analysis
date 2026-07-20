@@ -29,13 +29,16 @@ The workflow includes:
 
 ## 📁 Project Structure
 
-```text
-automotive-industry-sql-analysis/
+automotive-industry-data-analysis/
 │── README.md
-└── SQL/
-    └── automotive_analysis.sql
-```
-
+│── SQL/
+│   └── automotive_analysis.sql
+└── Dataset/
+    ├── car_sales.csv
+    ├── dealers.csv
+    ├── car_model.csv
+    └── recalls.csv
+    
 ---
 
 ## 🗄️ Schema
