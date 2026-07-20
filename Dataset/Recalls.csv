@@ -1,0 +1,131 @@
+﻿Date,Car_ID,System_Affected,Units,Model
+18 January 2016,87110,Visual System,7252,Beaufort
+13 March 2016,99110,Lights And Instruments,12528,Salish
+10 May 2016,132120,Visual System,2493,Labrador
+24 May 2016,147160,Fuel Supply,4048,Champlain
+28 July 2016,26151,Fuel Supply,402,Hudson
+02 August 2016,87110,Visual System,6798,Beaufort
+25 August 2016,99110,Powertrain,7637,Salish
+29 November 2016,132120,Tires,6968,Labrador
+27 December 2016,147160,Tires,12623,Champlain
+18 January 2017,26151,Visual System,8572,Hudson
+01 February 2017,87110,Visual System,4357,Beaufort
+01 February 2017,99110,Engine,3300,Salish
+27 February 2017,132120,Tires,13499,Labrador
+07 March 2017,147160,Engine,6051,Champlain
+15 March 2017,26151,Other,11897,Hudson
+25 March 2017,87110,Seats And Restraints,3396,Beaufort
+16 April 2017,99110,Steering,5044,Salish
+17 April 2017,132120,Engine,14190,Labrador
+22 April 2017,147160,Airbag,9866,Champlain
+24 April 2017,26151,Fuel Supply,8175,Hudson
+02 May 2017,87110,Electrical,13874,Beaufort
+17 May 2017,99110,Steering,14022,Salish
+28 May 2017,132120,Steering,8868,Labrador
+10 June 2017,147160,Tires,8240,Champlain
+28 June 2017,26151,Visual System,8546,Hudson
+10 July 2017,87110,Engine,10676,Beaufort
+25 July 2017,99110,Powertrain,1179,Salish
+11 August 2017,132120,Suspension,811,Labrador
+16 August 2017,147160,Other,14346,Champlain
+25 August 2017,26151,Tires,11213,Hudson
+21 September 2017,87110,Airbag,13899,Beaufort
+13 October 2017,99110,Lights And Instruments,14918,Salish
+31 October 2017,132120,Electrical,6358,Labrador
+08 December 2017,147160,Suspension,12978,Champlain
+22 December 2017,26151,Engine,4019,Hudson
+24 December 2017,87110,Powertrain,1905,Beaufort
+25 December 2017,99110,Tires,1337,Salish
+06 January 2018,132120,Visual System,14300,Labrador
+17 January 2018,147160,Powertrain,6428,Champlain
+08 March 2018,26151,Suspension,4476,Hudson
+15 March 2018,87110,Powertrain,14339,Beaufort
+13 April 2018,99110,Tires,6483,Salish
+13 May 2018,132120,Seats And Restraints,13190,Labrador
+31 May 2018,147160,Engine,1621,Champlain
+10 June 2018,26151,Airbag,3459,Hudson
+01 July 2018,87110,Engine,10104,Beaufort
+06 July 2018,99110,Powertrain,12019,Salish
+24 July 2018,132120,Steering,4978,Labrador
+04 August 2018,147160,Seats And Restraints,2624,Champlain
+10 August 2018,26151,Electrical,2932,Hudson
+11 August 2018,87110,Suspension,12910,Beaufort
+14 August 2018,99110,Structure,8288,Salish
+12 September 2018,132120,Electrical,4099,Labrador
+17 September 2018,147160,Powertrain,14882,Champlain
+21 September 2018,26151,Seats And Restraints,10097,Hudson
+21 September 2018,87110,Fuel Supply,11593,Beaufort
+01 October 2018,99110,Airbag,7808,Salish
+05 October 2018,132120,Tires,9790,Labrador
+06 October 2018,147160,Visual System,7517,Champlain
+11 October 2018,26151,Airbag,8432,Hudson
+12 October 2018,87110,Airbag,7450,Beaufort
+18 October 2018,99110,Seats And Restraints,14208,Salish
+18 October 2018,132120,Airbag,390,Labrador
+05 November 2018,147160,Powertrain,75,Champlain
+15 November 2018,26151,Airbag,7099,Hudson
+27 November 2018,87110,Airbag,10476,Beaufort
+30 November 2018,99110,Tires,5401,Salish
+18 December 2018,132120,Suspension,14718,Labrador
+19 December 2018,147160,Steering,12482,Champlain
+24 December 2018,26151,Seats And Restraints,10784,Hudson
+03 January 2019,87110,Brakes,10197,Beaufort
+14 January 2019,99110,Other,2008,Salish
+27 January 2019,132120,Lights And Instruments,3054,Labrador
+28 January 2019,147160,Visual System,5361,Champlain
+08 February 2019,26151,Engine,12752,Hudson
+15 February 2019,87110,Other,12814,Beaufort
+16 February 2019,99110,Tires,2313,Salish
+18 February 2019,132120,Fuel Supply,9683,Labrador
+19 February 2019,147160,Seats And Restraints,8803,Champlain
+25 February 2019,26151,Airbag,7672,Hudson
+08 March 2019,87110,Lights And Instruments,13322,Beaufort
+10 March 2019,99110,Airbag,3112,Salish
+15 March 2019,132120,Airbag,3506,Labrador
+18 March 2019,147160,Suspension,11834,Champlain
+19 March 2019,26151,Steering,2051,Hudson
+20 March 2019,87110,Airbag,8436,Beaufort
+22 March 2019,99110,Structure,1381,Salish
+25 March 2019,132120,Engine,8291,Labrador
+05 April 2019,147160,Visual System,449,Champlain
+08 April 2019,26151,Other,12476,Hudson
+09 April 2019,87110,Airbag,2103,Beaufort
+14 April 2019,99110,Airbag,4012,Salish
+18 April 2019,132120,Airbag,14179,Labrador
+19 April 2019,147160,Seats And Restraints,14096,Champlain
+27 April 2019,26151,Powertrain,4854,Hudson
+29 April 2019,87110,Suspension,9779,Beaufort
+02 May 2019,99110,Structure,9606,Salish
+31 May 2019,132120,Structure,13626,Labrador
+22 June 2019,147160,Suspension,14452,Champlain
+08 July 2019,26151,Powertrain,3165,Hudson
+03 January 2020,87110,Brakes,9679,Beaufort
+14 January 2020,99110,Other,1576,Salish
+27 January 2020,132120,Lights And Instruments,2556,Labrador
+28 January 2020,147160,Visual System,4347,Champlain
+08 February 2020,26151,Engine,9984,Hudson
+15 February 2020,87110,Other,11581,Beaufort
+16 February 2020,99110,Tires,1806,Salish
+18 February 2020,132120,Fuel Supply,8673,Labrador
+19 February 2020,147160,Seats And Restraints,6935,Champlain
+25 February 2020,26151,Airbag,6390,Hudson
+08 March 2020,87110,Lights And Instruments,10570,Beaufort
+10 March 2020,99110,Airbag,2953,Salish
+15 March 2020,132120,Airbag,2830,Labrador
+18 March 2020,147160,Suspension,9248,Champlain
+19 March 2020,26151,Steering,1615,Hudson
+20 March 2020,87110,Airbag,7320,Beaufort
+22 March 2020,99110,Structure,1058,Salish
+25 March 2020,132120,Engine,7626,Labrador
+05 April 2020,147160,Visual System,405,Champlain
+08 April 2020,26151,Other,10335,Hudson
+09 April 2020,87110,Airbag,2813,Beaufort
+14 April 2020,99110,Airbag,3346,Salish
+18 April 2020,132120,Airbag,11300,Labrador
+19 April 2020,147160,Seats And Restraints,11940,Champlain
+27 April 2020,26151,Powertrain,4273,Hudson
+29 April 2020,87110,Suspension,8687,Beaufort
+02 May 2020,99110,Structure,8674,Salish
+31 May 2020,132120,Structure,11331,Labrador
+22 June 2020,147160,Suspension,12429,Champlain
+08 July 2020,26151,Powertrain,2683,Hudson
