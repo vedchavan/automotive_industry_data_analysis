@@ -29,6 +29,7 @@ The workflow includes:
 
 ## 📁 Project Structure
 
+```
 automotive-industry-data-analysis/
 │── README.md
 │── SQL/
@@ -38,6 +39,7 @@ automotive-industry-data-analysis/
     ├── dealers.csv
     ├── car_model.csv
     └── recalls.csv
+```
     
 ---
 
