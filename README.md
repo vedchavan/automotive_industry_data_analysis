@@ -1,4 +1,4 @@
-# automotive-industry-sql-analysis
+# automotive-industry-analysis
 
 An end-to-end SQL data analysis project on automotive industry data — covering sales, dealers, car models, and recall history. Focus on schema design, data cleaning, exploratory analysis, and business-focused insight generation using PostgreSQL. A companion interactive Power BI dashboard built on the same dataset is included below.
 
