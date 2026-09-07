@@ -1,6 +1,6 @@
 # automotive-industry-sql-analysis
 
-An end-to-end SQL data analysis project on automotive industry data — covering sales, dealers, car models, and recall history. Focus on schema design, data cleaning, exploratory analysis, and business-focused insight generation using PostgreSQL.
+An end-to-end SQL data analysis project on automotive industry data — covering sales, dealers, car models, and recall history. Focus on schema design, data cleaning, exploratory analysis, and business-focused insight generation using PostgreSQL. A companion interactive Power BI dashboard built on the same dataset is included below.
 
 ---
 
@@ -24,22 +24,25 @@ The workflow includes:
 ## 🛠️ Tools Used
 
 - PostgreSQL
+- Power BI (DAX, Power Query)
 
 ---
 
 ## 📁 Project Structure
-
-```
 automotive-industry-data-analysis/
 │── README.md
+│── LICENSE
 │── SQL/
-│   └── automotive_analysis.sql
+│ └── Automotive_industry_sql.sql
+│── Power_BI/
+│ ├── Automotive_industry.pbix
+│ └── Automotive_industry.pdf
 └── Dataset/
-    ├── car_sales.csv
-    ├── dealers.csv
-    ├── car_model.csv
-    └── recalls.csv
-```
+├── car_sales.csv
+├── dealers.csv
+├── car_model.csv
+└── recalls.csv
+
     
 ---
 
@@ -75,7 +78,14 @@ This project intentionally documents where the data did **not** support a planne
 - **No recall-free comparison group exists.** All 5 car models in this dataset have recall history, so "recall history vs. no recall history" sales comparisons have no baseline to compare against.
 - **No variation in recall count across models.** Every model has an identical recall count (26), so recall frequency couldn't be correlated against sales performance.
 
+---
 
+## 📊 Interactive Dashboard
+
+The insights above are also available as a 7-page interactive Power BI dashboard built on this same dataset — Sales Overview, Weather Impact, Dealers, and Recalls, plus Info/Support pages. It includes DAX-driven measures (e.g., a dynamic weather-condition sales comparison) and clickable exploration by weather condition.
+
+- 📄 [View a static preview (PDF, renders in-browser)](./Power_BI/Automotive_industry.pdf)
+- 📥 [Download the interactive file (.pbix, requires Power BI Desktop)](./Power_BI/Automotive_industry.pbix)
 
 ---
 
@@ -96,16 +106,16 @@ The SQL project includes:
 5. Does weather (rain/snow/fog/temperature) affect daily sales volume?
 6. Which month/year had the highest number of recalls?
 
-Full query set: [`SQL/Automotive_industry_sql.sql`](SQL/Automotive_industry_sql.sql)
+Full query set: [SQL/Automotive_industry_sql.sql](SQL/Automotive_industry_sql.sql)
 
 ---
 
 ## 🔄 What I'd Improve Next
 
-- Build an interactive Power BI dashboard to visualize sales, dealer, and recall trends
 - Bring in a dataset with overlapping recall and sales date ranges to properly test recall impact on sales
 - Add a data source with recall-free models to enable a true comparison baseline
 - Automate data refresh instead of static import
+- Extend the Power BI dashboard with a model-level "recall risk vs. sales volume" cross-filter view
 
 ---
 
@@ -116,6 +126,13 @@ Full query set: [`SQL/Automotive_industry_sql.sql`](SQL/Automotive_industry_sql.
 - Data Cleaning & EDA across multiple related tables
 - Recognizing and documenting real data limitations instead of forcing false conclusions
 - Business problem framing and insight communication
+- Dashboard design and DAX in Power BI
+
+---
+
+## 📄 License
+
+See [LICENSE](./LICENSE) for details.
 
 ---
 
